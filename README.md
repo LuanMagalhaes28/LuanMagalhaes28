@@ -33,11 +33,15 @@ Onde pode me encontrar:
 ## Portfólio e Principais Projetos
 ### Análise AdventureWorks
 <img align="left" width="250" src="https://github.com/LuanMagalhaes28/AdventureWorksPortifolio/blob/main/Imagens/SQL%20SERVER.png?raw=true">
-Projeto desenvolvido para análise e entendimento dos clientes da empresa AdventureWorks, utlizando linguagem SQL para consulta ao banco de dados.
-Principais desafios: <br>
-- Desenvolver consultas utilizando linguagem SQL.<br>
-- Estatística descritiva com as principais características dos clientes da base de dados AdventureWorks.<br>
-- Medir a performance e variação de novos clientes ao longo do tempo, identificando as principais fontes de crescimento da base de clientes.
+Análise realizada com SQL Server, utilizando o banco de dados de exemplo AdventureWorks. O foco foi explorar a tabela fato 
+FactInternetSales e suas tabelas dimensão para extrair insights de vendas, produtos e comportamento dos clientes.
+
+Objetivos do Projeto:
+- Explorar uma base de dados realista de vendas
+- Criar indicadores de negócio (KPIs)
+- Compreender a estrutura de um Data Warehouse
+- Treinar boas práticas de escrita de consultas SQL
+
 <br>
 <br>
 <a href="https://github.com/LuanMagalhaes28/AdventureWorksPortifolio/tree/main"> Clique aqui</a> para acessar o repositório no Github
