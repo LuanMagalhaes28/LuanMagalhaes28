@@ -32,7 +32,7 @@ Onde pode me encontrar:
 
 ## Portfólio e Principais Projetos
 ### Análise AdventureWorks
-<img align="left" width="400" src="https://github.com/LuanMagalhaes28/AdventureWorksPortifolio/blob/main/Imagens/SQL%20SERVER.png?raw=true">
+<img align="left" width="250" src="https://github.com/LuanMagalhaes28/AdventureWorksPortifolio/blob/main/Imagens/SQL%20SERVER.png?raw=true">
 Projeto desenvolvido para análise e entendimento dos clientes da empresa AdventureWorks, utlizando linguagem SQL para consulta ao banco de dados.
 Principais desafios: <br>
 - Desenvolver consultas utilizando linguagem SQL.<br>
