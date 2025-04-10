@@ -27,3 +27,8 @@ Onde pode me encontrar:
   <a href="https://www.linkedin.com/in/luan-magalh%C3%A3es2024/" target="_blank">
     <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
 </div>
+
+<br>
+
+## Portfólio e Principais Projetos
+### Análise AdventureWorks
