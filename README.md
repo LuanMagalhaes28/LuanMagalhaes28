@@ -59,8 +59,7 @@ O foco foi modelar os dados em um esquema estrela e explorar as principais métr
 Objetivos do Projeto:
 - Modelar uma base relacional para formato analítico (Data Warehouse)
 - Criar indicadores de negócio (KPIs) relevantes
-- Explorar o comportamento de compra por perfil de cliente
 - Visualizar as informações de forma interativa no Power BI
-- Praticar boas práticas de organização de dashboards
+- Extrair insights cruciais para o negócio
 <br>
 <a href="https://github.com/LuanMagalhaes28/BikePortifolio/tree/main"> Clique aqui</a> para acessar o repositório no Github
