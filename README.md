@@ -34,7 +34,8 @@ Onde pode me encontrar:
 ### Análise AdventureWorks
 <img align="left" width="250" src="https://github.com/LuanMagalhaes28/AdventureWorksPortifolio/blob/main/Imagens/SQL%20SERVER.png?raw=true">
 Análise realizada com SQL Server, utilizando o banco de dados de exemplo AdventureWorks. O foco foi explorar a tabela fato 
-FactInternetSales e suas tabelas dimensão para extrair insights de vendas, produtos e comportamento dos clientes.
+FactInternetSales e suas tabelas dimensão para extrair insights de vendas, produtos e comportamento dos clientes.<br>
+<br>
 
 Objetivos do Projeto:
 - Explorar uma base de dados realista de vendas
@@ -43,5 +44,23 @@ Objetivos do Projeto:
 - Treinar boas práticas de escrita de consultas SQL
 
 <br>
-<br>
 <a href="https://github.com/LuanMagalhaes28/AdventureWorksPortifolio/tree/main"> Clique aqui</a> para acessar o repositório no Github
+
+<br>
+
+
+### Análise de Vendas - Bike Store 🚴
+<img align="right" width="600" src="https://github.com/LuanMagalhaes28/BikePortifolio/blob/main/Prints/Visao%20Geral.png?raw=true">
+Análise realizada com SQL Server e Power BI, utilizando uma base de dados simulada do varejo de bicicletas. 
+O foco foi modelar os dados em um esquema estrela e explorar as principais métricas de vendas, produtos e perfil dos clientes.
+<br>
+<br>
+
+Objetivos do Projeto:
+- Modelar uma base relacional para formato analítico (Data Warehouse)
+- Criar indicadores de negócio (KPIs) relevantes
+- Explorar o comportamento de compra por perfil de cliente
+- Visualizar as informações de forma interativa no Power BI
+- Praticar boas práticas de organização de dashboards
+<br>
+<a href="https://github.com/LuanMagalhaes28/BikePortifolio/tree/main"> Clique aqui</a> para acessar o repositório no Github
