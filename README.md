@@ -68,15 +68,15 @@ Objetivos do Projeto:
 
 
 ## Análise de Acidentes Rodoviários no Brasil
-<img align="right" width="600" src="https://github.com/LuanMagalhaes28/BikePortifolio/blob/main/Prints/Dashboard/Visao%20Geral.png?raw=true">
+<img align="left" width="600" src="https://github.com/LuanMagalhaes28/RodoviasPortifolio/blob/main/Prints/Dashboard.png?raw=true">
 A segurança no trânsito é um desafio constante, e entender os padrões dos acidentes pode ajudar a reduzir riscos e salvar vidas. Pensando nisso, desenvolvi um dashboard interativo no Power BI para analisar os acidentes rodoviários no Brasil, utilizando dados públicos da Polícia Rodoviária Federal (PRF). 
 <br>
 <br>
 
 Objetivos do Projeto:
-- Criar um modelo dimensional com tabelas fato e dimensão.
-- Construir KPIs relevantes de vendas, margem, ticket médio e lucratividade.
-- Utilizar filtros, gráficos interativos e tooltips para facilitar a tomada de decisão.
-- Aplicar storytelling com dados para comunicar descobertas de forma clara e impactante.
+- Investigar a quantidade e gravidade dos acidentes por ano, mês, dia da semana e horário.
+- Entender os principais tipos de acidentes e pistas mais perigosas.
+- Identificar o perfil das vítimas (por sexo, tipo e estado físico).
+- Apontar os trechos rodoviários mais críticos, com destaque para rodovias e estados com maior concentração de ocorrências.
 <br>
-<a href="https://github.com/LuanMagalhaes28/BikePortifolio/tree/main"> Clique aqui</a> para acessar o repositório no Github
+<a href="https://github.com/LuanMagalhaes28/RodoviasPortifolio/tree/main"> Clique aqui</a> para acessar o repositório no Github
