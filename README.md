@@ -50,16 +50,16 @@ Objetivos do Projeto:
 
 
 ### Análise de Vendas - Bike Store 🚴
-<img align="right" width="600" src="https://github.com/LuanMagalhaes28/BikePortifolio/blob/main/Prints/Visao%20Geral.png?raw=true">
+<img align="right" width="600" src="https://github.com/LuanMagalhaes28/BikePortifolio/blob/main/Prints/Dashboard/Visao%20Geral.png?raw=true">
 Análise realizada com SQL Server e Power BI, utilizando uma base de dados simulada do varejo de bicicletas. 
 O foco foi modelar os dados em um esquema estrela e explorar as principais métricas de vendas, produtos e perfil dos clientes.
 <br>
 <br>
 
 Objetivos do Projeto:
-- Modelar uma base relacional para formato analítico (Data Warehouse)
-- Criar indicadores de negócio (KPIs) relevantes
-- Visualizar as informações de forma interativa no Power BI
-- Extrair insights cruciais para o negócio
+- Criar um modelo dimensional com tabelas fato e dimensão.
+- Construir KPIs relevantes de vendas, margem, ticket médio e lucratividade.
+- Utilizar filtros, gráficos interativos e tooltips para facilitar a tomada de decisão.
+- Aplicar storytelling com dados para comunicar descobertas de forma clara e impactante.
 <br>
 <a href="https://github.com/LuanMagalhaes28/BikePortifolio/tree/main"> Clique aqui</a> para acessar o repositório no Github
