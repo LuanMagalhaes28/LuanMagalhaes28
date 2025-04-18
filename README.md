@@ -63,3 +63,20 @@ Objetivos do Projeto:
 - Aplicar storytelling com dados para comunicar descobertas de forma clara e impactante.
 <br>
 <a href="https://github.com/LuanMagalhaes28/BikePortifolio/tree/main"> Clique aqui</a> para acessar o repositório no Github
+
+<br>
+
+
+## Análise de Acidentes Rodoviários no Brasil
+<img align="right" width="600" src="https://github.com/LuanMagalhaes28/BikePortifolio/blob/main/Prints/Dashboard/Visao%20Geral.png?raw=true">
+A segurança no trânsito é um desafio constante, e entender os padrões dos acidentes pode ajudar a reduzir riscos e salvar vidas. Pensando nisso, desenvolvi um dashboard interativo no Power BI para analisar os acidentes rodoviários no Brasil, utilizando dados públicos da Polícia Rodoviária Federal (PRF). 
+<br>
+<br>
+
+Objetivos do Projeto:
+- Criar um modelo dimensional com tabelas fato e dimensão.
+- Construir KPIs relevantes de vendas, margem, ticket médio e lucratividade.
+- Utilizar filtros, gráficos interativos e tooltips para facilitar a tomada de decisão.
+- Aplicar storytelling com dados para comunicar descobertas de forma clara e impactante.
+<br>
+<a href="https://github.com/LuanMagalhaes28/BikePortifolio/tree/main"> Clique aqui</a> para acessar o repositório no Github
