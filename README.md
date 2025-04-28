@@ -80,3 +80,20 @@ Objetivos do Projeto:
 - Apontar os trechos rodoviários mais críticos, com destaque para rodovias e estados com maior concentração de ocorrências.
 <br>
 <a href="https://github.com/LuanMagalhaes28/RodoviasPortifolio/tree/main"> Clique aqui</a> para acessar o repositório no Github
+
+<br>
+
+
+## Análise e Segmentação de Clientes de Cartão de Crédito 📊
+<img align="right" width="600" src="https://github.com/LuanMagalhaes28/AnaliseDeCredito/blob/main/Captura%20de%20tela%202025-04-28%20101412.png?raw=true">
+O comportamento financeiro dos clientes é crucial para a sustentabilidade de instituições financeiras. Pensando nisso, desenvolvi uma análise detalhada de clientes de cartão de crédito, focando em padrões de uso, risco de inadimplência e oportunidades de rentabilização.
+Através da segmentação estratégica em perfis de risco, este projeto entrega insights valiosos para a gestão de crédito e ações de marketing mais eficientes.
+<br>
+<br>
+
+Objetivos do Projeto:
+- Realizar uma análise exploratória de dados (EDA) para entender o comportamento dos clientes.
+- Segmentar os clientes em grupos estratégicos baseados em risco e perfil de uso.
+- Gerar insights de negócio para campanhas de marketing, concessão de crédito e gestão de risco.
+<br>
+<a href="https://github.com/LuanMagalhaes28/AnaliseDeCredito/tree/main"> Clique aqui</a> para acessar o repositório no Github
