@@ -32,7 +32,7 @@ Onde pode me encontrar:
 
 # Portfólio e Principais Projetos
 ## Análise AdventureWorks
-<img align="left" width="400" src="https://github.com/LuanMagalhaes28/AdventureWorksPortifolio/blob/main/Imagens/Captura%20de%20tela%202025-04-18%20192722.png?raw=true">
+<img align="left" width="550" src="https://github.com/LuanMagalhaes28/AdventureWorksPortifolio/blob/main/Imagens/Captura%20de%20tela%202025-04-18%20192722.png?raw=true">
 Análise realizada com SQL Server, utilizando o banco de dados de exemplo AdventureWorks. O foco foi explorar a tabela fato 
 FactInternetSales e suas tabelas dimensão para extrair insights de vendas, produtos e comportamento dos clientes.<br>
 <br>
