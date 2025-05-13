@@ -1,6 +1,6 @@
 ### Olá,  sou Luan Magalhães 👋
 
-## 💡 Analista de Dados | 📊 Power BI | 🐍 Python | 🗄️ SQL
+## 💡 Analista de Dados | 📊 Power BI | 🐍 Python | 🗄️ SQL | 📚 Excel
 
 🎯 O que você encontrará aqui?
 
