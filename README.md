@@ -1,4 +1,4 @@
-### Olá,  sou Luan Magalhães 👋
+### Olá,  sou Luan Mgalhães 👋
 
 ## 💡 Analista de Dados | 📊 Power BI | 🐍 Python | 🗄️ SQL | 📚 Excel
 
